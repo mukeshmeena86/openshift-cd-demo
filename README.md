@@ -16,7 +16,7 @@ The following diagram shows the steps included in the deployment pipeline:
 ![](images/pipeline.png?raw=true)
 
 The application used in this pipeline is a JAX-RS application which is available on GitHub and is imported into Gogs during the setup process:
-[https://github.com/mukeshmeena86/openshift-tasks](https://github.com/mukeshmeena86/openshift-tasks/tree/eap-7)
+[https://github.com/mukeshmeena86/openshift-tasks](https://github.com/mukeshmeena86/openshift-tasks)
 
 # Prerequisites
 * 8+ GB memory for OpenShift (10+ GB memory if using SonarQube)
