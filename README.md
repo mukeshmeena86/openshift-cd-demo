@@ -1,3 +1,9 @@
+
+Please check my vedio for the same, thx. 
+
+https://www.youtube.com/watch?v=w2CojTjEgjs&t=656s
+
+
 *For other versions of OpenShift, follow the instructions in the corresponding branch e.g. ocp-3.7, origin-3.7, etc*
 
 # CI/CD Demo - OpenShift Container Platform 3.7
